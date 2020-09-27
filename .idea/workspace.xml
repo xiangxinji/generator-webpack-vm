@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffe0cb27-1cef-4179-9f32-fc7d8b263132" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/generators/app/templates/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/app/templates/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/app/templates/build/webpack.config.base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/app/templates/build/webpack.config.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/app/templates/build/webpack.config.prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/app/templates/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/app/templates/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/app/templates/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/app/templates/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/app/templates/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/app/templates/src/styles/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/app/templates/utils/path.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/app/templates/utils/preset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/app/templates/yarn-error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generators/app/templates/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hx2eL0bt7LKBMK105ptKrdb3xj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/generators/app/templates" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\tryca\Desktop\generator-webpack-vm\node_modules\prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tryca\Desktop\generator-webpack-vm\generators\app\templates" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffe0cb27-1cef-4179-9f32-fc7d8b263132" name="默认的" comment="" />
+      <created>1600938516285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600938516285</updated>
+      <workItem from="1600938517776" duration="4160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600940592191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600940592191" />
+  </component>
+</project>
