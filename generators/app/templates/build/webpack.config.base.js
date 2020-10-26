@@ -44,20 +44,7 @@ const config = {
             {
                 test: /\.vue$/,
                 loader: "vue-loader"
-            },
-            {
-                test: /\.(png|jpg|gif)$/,
-                use: [
-                    {
-                        loader: "url-loader",
-                        options: {
-                            limit: preset.imageToBase64Limit,
-                            esModule: false,
-                            name: "img/[hash].[ext]",
-                        },
-                    },
-                ],
-            },
+            }
         ]
     },
     resolve: {

@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffe0cb27-1cef-4179-9f32-fc7d8b263132" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/generators/app/templates/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generators/app/templates/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generators/app/templates/build/webpack.config.base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generators/app/templates/build/webpack.config.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generators/app/templates/build/webpack.config.prod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generators/app/templates/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generators/app/templates/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generators/app/templates/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generators/app/templates/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generators/app/templates/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generators/app/templates/src/styles/base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generators/app/templates/utils/path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generators/app/templates/utils/preset.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generators/app/templates/yarn-error.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generators/app/templates/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/app/templates/build/webpack.config.base.js" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/templates/build/webpack.config.base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/app/templates/build/webpack.config.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/templates/build/webpack.config.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/app/templates/build/webpack.config.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/generators/app/templates/build/webpack.config.prod.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +45,8 @@
       <option name="presentableId" value="Default" />
       <updated>1600938516285</updated>
       <workItem from="1600938517776" duration="4160000" />
+      <workItem from="1601174657420" duration="239000" />
+      <workItem from="1603678909068" duration="207000" />
     </task>
     <servers />
   </component>
